@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charlene</h1>
+<h1 align="center">Hi 👋, I'm Charlene Campbell-Gray AKA OriginalCindy </h1>
 <h3 align="center">A passionate full stack developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=originalcindy&label=Profile%20views&color=0e75b6&style=flat" alt="originalcindy" /> </p>
