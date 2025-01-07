@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charlene Campbell-Gray AKA OriginalCindy </h1>
+<h1 align="center">Hi 👋, I'm Charlene</h1>
 <h3 align="center">A passionate full stack developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=originalcindy&label=Profile%20views&color=0e75b6&style=flat" alt="originalcindy" /> </p>
@@ -6,6 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=originalcindy" alt="originalcindy" /></a> </p>
 
 - 🔭 I’m currently working on [wax wisdom](https://wax-wisdom-a6fcbf849763.herokuapp.com/)
+
+- 🌱 I’m currently learning **Cybersecurity**
+
+- 📫 How to reach me **charlenecampbellgray@gmail.com**
+
+- ⚡ Fun fact **I Love chinese food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=originalcindy&show_icons=true&locale=en" alt="originalcindy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=originalcindy&" alt="originalcindy" /></p>
+
